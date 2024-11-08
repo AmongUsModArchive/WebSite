@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: 请求收录模组
+    url: https://github.com/AmongUsModArchive/ModList/issues/new/choose
+    about: 请在“收录模组列表”仓库中提出此issue。
